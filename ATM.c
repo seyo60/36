@@ -24,7 +24,7 @@ int main()
     int miktar;
 
     int banknot5=5;
-    int banknot10=10;
+    int banknot10=10; 
     int banknot20=20;
     int banknot50=50;
     int banknot100=100;
